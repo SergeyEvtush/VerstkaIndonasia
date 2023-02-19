@@ -1,0 +1,56 @@
+@font-face{
+   font-family: 'OpenSansBold';
+   src: url('../fonts/OpenSans-Bold.ttf');   
+   src: url('../fonts/OpenSans-Bold.eot?iefix') format('eot'),  
+   url('../fonts/OpenSans-Bold.ttf') format('truetype');
+   font-weight: 600;  
+   font-style: normal;
+   }
+@font-face{
+   font-family: 'OpenSansSemyBold';
+   src: url('../fonts/OpenSans-SemiBold.ttf');   
+   src: url('../fonts/OpenSans-SemiBold.eot?iefix') format('eot'),   
+   url('../fonts/OpenSans-SemiBold.ttf') format('truetype');
+   font-weight: 700;  
+   font-style: normal;
+   }
+   @font-face{
+      font-family: 'OpenSansRegular';     
+      src: url('../fonts/OpenSans-Regular.eot');    
+      src: url('../fonts/OpenSans-Regular.eot?iefix') format('eot'),      
+      url('../fonts/OpenSans-Regular.ttf') format('truetype');     
+      font-weight: 400;     
+      font-style: normal;    
+      }
+      @font-face{
+         font-family: 'DMSansSemyBold';
+         src: url('../fonts/DMSans-Bold.ttf');   
+         src: url('../fonts/DMSans-Bold.eot?iefix') format('eot'), 
+         url('../fonts/DMSans-Bold.ttf') format('truetype');
+         font-weight: 700;  
+         font-style: normal;
+         }
+         @font-face{
+            font-family: 'DMSansRegular';     
+            src: url('../fonts/DMSans-Regular.eot');    
+            src: url('../fonts/DMSans-Regular.eot?iefix') format('eot'),    
+            url('../fonts/DMSans-Regular.ttf') format('truetype');      
+            font-weight: 400;     
+            font-style: normal;    
+            }
+      @font-face{
+         font-family: 'RobotoBold';
+         src: url('../fonts/Roboto-Bold.ttf');   
+         src: url('../fonts/Roboto-Bold.eot?iefix') format('eot'),  
+         url('../fonts/Roboto-Bold.ttf') format('truetype'); 
+         font-weight: 600;  
+         font-style: normal;
+         }
+      @font-face{
+         font-family: 'RobotoLight';
+         src: url('../fonts/Roboto-Light.ttf');   
+         src: url('../fonts/Roboto-Light.eot?iefix') format('eot'),  
+         url('../fonts/Roboto-Light.ttf') format('truetype'); 
+         font-weight: 300;  
+         font-style: normal;
+         }

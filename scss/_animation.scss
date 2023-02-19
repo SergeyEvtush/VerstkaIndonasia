@@ -1,0 +1,57 @@
+
+
+@keyframes downUp {
+   0%{
+      transform: translateY(0%);
+   }
+   50%{
+      transform: translateY(100%);
+   }
+   100%{
+      transform: translateY(0%);
+   }
+   
+}
+@keyframes rightLeft {
+   0%{
+      
+      transform: translateX(0%) rotate(-90deg);
+   }
+   50%{
+      
+      transform: translateX(100%) rotate(-90deg);
+   }
+   100%{
+      
+      transform: translateX(0%) rotate(-90deg);
+   }
+   
+}
+@keyframes changeColor {
+   0%{
+      
+      color:#fff;
+   }
+   50%{
+      
+      color:#FBD784;
+   }
+   100%{
+      
+      color:#FBD784;
+   }
+}
+@keyframes changeFill {
+   0%{
+      
+      fill:#fff;
+   }
+   50%{
+      
+      fill:#FBD784;
+   }
+   100%{
+      
+      fill:#FBD784;
+   }
+}
